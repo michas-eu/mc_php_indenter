@@ -1,0 +1,4 @@
+# QT Creator
+*.pro.user*
+# VIM
+*.swp

@@ -1,0 +1,3 @@
+This is console application to format PHP source code. Not perfect, but works
+with alternative syntax for control structures. The only dependence is QT 5.
+Should works on all supported platforms.
